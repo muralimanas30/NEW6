@@ -18,6 +18,9 @@
     .col2 audio{
         scale: 0.8;
     }
+
+
+    }
     .col2{
         display: flex;
         flex-flow: column;
